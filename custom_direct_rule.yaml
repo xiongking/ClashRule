@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,bitwarden.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,anti-ad.net
+  - DOMAIN-SUFFIX,cloudflare.com
