@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,plex.tv
   - DOMAIN-SUFFIX,bitwarden.com
   - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,anti-ad.net
