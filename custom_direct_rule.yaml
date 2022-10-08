@@ -16,3 +16,4 @@ payload:
   - DOMAIN-SUFFIX,nintendo.net
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,cloudflare-dns.com
+  - DOMAIN-SUFFIX,nelreports.net
