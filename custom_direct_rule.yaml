@@ -8,5 +8,5 @@ payload:
 #  - DST-PORT,80
 #  - SRC-PORT,7777
 
-   - DOMAIN-SUFFIX,plex.tv
-   - DOMAIN-SUFFIX,bitwarden.com
+  - DOMAIN-SUFFIX,plex.tv
+  - DOMAIN-SUFFIX,bitwarden.com
