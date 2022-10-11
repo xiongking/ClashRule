@@ -18,3 +18,4 @@ payload:
   - DOMAIN-SUFFIX,cloudflare-dns.com
   - DOMAIN-SUFFIX,nelreports.net
   - DOMAIN-SUFFIX,notion.so
+  - DOMAIN-SUFFIX,openwrt.org
