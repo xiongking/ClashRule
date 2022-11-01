@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,rfi.org
   - DOMAIN-SUFFIX,m-team.cc
   - DOMAIN-SUFFIX,googleapis.cn
+  - DOMAIN-SUFFIX,raw.githubusercontent.com
