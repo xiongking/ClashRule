@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建漳州移动IPV6",BesTV LIVE高清
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226568/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建漳州移动IPV6",BesTV超级体育高清
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226895/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="福建漳州移动IPV6",CCTV1高清
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225812/index.m3u8?servicetype=1
@@ -358,6 +354,9 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227193/index.m3u
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225831/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="福建漳州移动IPV6",重庆卫视高清
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227240/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建漳州移动IPV6",BesTV LIVE高清
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226568/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建漳州移动IPV6",BesTV超级体育高清
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南v6",4K
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000197/index.m3u8?IAS
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南v6",4K
